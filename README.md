@@ -71,5 +71,4 @@ Easy to customize for personal or professional use
 SamirNexus – Software Engineer & Web Developer
 GitHub: https://github.com/SamirNexus
 
-markdown
-Copy code
+
